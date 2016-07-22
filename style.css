@@ -1,0 +1,163 @@
+body{
+    background-color: #fafafa;
+}
+.tags{
+    
+    display: inline-block;
+    
+    /*padding: 5px;
+    background-color: #ccebf5;
+    border-radius: 10%;
+    margin-right: 6px; */
+}
+#yo{
+    margin-top:0; 
+    padding:0;
+    
+}
+#exampleRecipientInput{
+    width:60%;
+}
+#footer{
+    padding-top:3%;
+    padding-left: 10%;
+   padding-bottom: 3%;
+    color: white;
+    margin:0;
+   
+    background-color: #00c0ff;
+}
+.listofOrgs{
+    padding-bottom: 10%;
+}
+placeholder{
+    color:black;
+}
+input[type="email"]{
+    color:black;
+}
+input{
+    width:100%;
+}
+#subBtn{
+   
+    background-color: darkblue;
+    color:aliceblue;
+}
+
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+ul{
+list-style-type:none;
+
+}
+
+.link{
+    display: inline-block;
+    padding-left:20%;
+    padding-top:8%;   
+}
+
+img{
+    padding-top: 3%;
+    max-width: 20%;
+    position: absolute;
+}
+.listItem img{   
+    max-height:100%;
+}
+.myText{
+    padding-bottom: 2%;
+    padding-left: 40%;
+    line-height: 1.2;
+}
+/*
+.linkss{
+    width: 15%;
+    height: 5%;
+    position: absolute;
+    left: 80%;
+    padding-top: 3%;
+}
+*/
+@media screen and (min-width:900px){
+    img{
+        max-width: 15%;
+    }
+}
+/*
+@media screen and (max-width:700px){
+    #typeform{
+        width:50%;
+    }
+    #button{
+        width:50%;
+        margin-left: 88%;
+    }
+}*/
+@media screen and (max-width:550px){
+    #exampleRecipientInput{
+    width:100%;
+}
+    .listofOrgs{
+        padding-bottom: 0;
+    }
+    #subBtn{
+        width:50%;
+    }
+    .link{
+        padding-left: 10%;
+        padding-top: 0;
+    }
+    .links{
+        position: absolute;
+        padding-left: 0;
+        margin: 0;
+        padding-top: 15%;
+    }
+    ul ul{
+        margin:0;
+        padding-top: 10%;
+    }
+    .myText{
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+    img{
+        max-width: 30%;
+    }
+    input[type="email"] {
+        max-width: 80%;
+    }
+    .u-full-width {
+        width: 100%;
+    }
+    #footer{
+        width:auto;
+        text-align: center;
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (max-width:430px){
+    ul ul{
+        padding-top: 0;
+    }
+    
+}
+@media screen and (max-width:330px){
+    
+    body{
+        font-size:1.2em;
+    }
+    p{
+        margin-right: 10%;
+    }
+    h5{
+        margin-right: 10%;
+    }
+}
