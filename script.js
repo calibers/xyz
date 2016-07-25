@@ -27,6 +27,23 @@ function hideAll(){
     //$(".global").hide()
 }
 
+// Show hide items based on the tag.
+function showParams(){
+  console.log("hidden");
+
+    $(".org").hide();
+};
+
+// Detect if a URL Parameter is present
+function getURLParameter( name, url ) {
+    if (!url) url = location.href;
+    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+    var regexS = "[\\?&]"+name+"=([^&#]*)";
+    var regex = new RegExp( regexS );
+    var results = regex.exec( url );
+    return results == null ? null : results[1];
+  }
+
  function myFunction(){
     /*if(window.location.search.substring(1)=="women"){
         document.getElementById("organizations").value="fem";
@@ -41,6 +58,8 @@ function hideAll(){
      //sortUnorderedList(".my-new-list");
 
 window.onload = function() {
+
+
     /*if(window.location.search.substring(1)=="women"){
         console.log("clicked on women");
         document.getElementById("organizations").value='fem';
@@ -63,4 +82,15 @@ window.onload = function() {
             showAll()
         }
     });
-}    
+}
+
+
+// Run after page load
+$( document ).ready(function() {
+  var param = getURLParameter('tag',window.location.href);
+  console.log(param+" is the tag!");
+
+  showParams();
+  $(".org").hide();
+  $("."+param).show();
+});
