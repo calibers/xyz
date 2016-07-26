@@ -43,3 +43,32 @@ function getLocation(tag){
              }).appendTo( ".myListt" );
     });
 })();
+
+
+/*
+
+1. Try Ajax with Success and error callback response.
+
+2. Use and be able to access get URL param function
+
+3. Try to hide classes on Success
+
+4. Try to recreate an error case ... using wrong url for JSON
+
+
+
+$.ajax({
+  dataType: "json",
+  // URL for the JSON
+  url: url,
+  data: data,
+  success: function (response) {
+    $(".org").hide();
+    $("."+param).show();
+    console.log("It worked");
+  },
+  error : function (error) {
+    console.log('Error:',error);
+  }
+});
+*/
