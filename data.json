@@ -1,81 +1,31 @@
 [
   {
-    "Name": "Women in Tech",
-    "Website": "http://www.womenintechnology.org/",
-    "LinkedIn": "https://www.linkedin.com/groups/55459/profile",
-    "Twitter": "https://twitter.com/WITWomen",
-    "Description": "A non profit organization that promotes women in tech.",
-    "Logo": "https://pbs.twimg.com/profile_images/537061353828016128/DmdKkrbO_400x400.png",
-    "Location": "DC, USA",
-    "Tags": "women"
-  },
-  {
-    "Name": "Lesbians Who Tech",
-    "Website": "http://lesbianswhotech.org/",
-    "LinkedIn": "https://www.linkedin.com/groups/5067615/profile",
-    "Twitter": "https://twitter.com/lesbiantech",
-    "Description": "Supports queer women in and around tech.",
-    "Logo": "https://pbs.twimg.com/profile_images/693185137790439424/wguFUKaG_400x400.png",
-    "Location": "global",
-    "Tags": "women lgbt"
-  },
-  {
-    "Name": "Tech LadyMafia",
-    "Website": "http://techladymafia.com/",
+    "Name": "ACM-Women",
+    "Website": "https://women.acm.org/",
     "LinkedIn": "",
-    "Twitter": "https://twitter.com/techladymafia",
-    "Description": "Tech LadyMafia supports women who work in and around the internet. We are astrophysicists and developers, writers and digital strategists.",
-    "Logo": "https://pbs.twimg.com/profile_images/1653310439/ladee_400x400.png",
+    "Twitter": "https://twitter.com/ACMwomENcourage",
+    "Description": "ACM-W supports the full engagement of women in all aspects of the computing field.",
+    "Logo": "https://pbs.twimg.com/profile_images/378800000760857316/48b5b23ca367cc7e75c60d25a4634af1_400x400.png",
+    "Location": "EU USA",
+    "Tags": "women"
+  },
+  {
+    "Name": "Ada Developers Academy",
+    "Website": "http://adadevelopersacademy.org/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/adaacademy",
+    "Description": "An intensive software development training program for women in Seattle.",
+    "Logo": "https://pbs.twimg.com/profile_images/471013643446788096/VE9AkTUD_400x400.png",
     "Location": "",
     "Tags": "women"
   },
   {
-    "Name": "MotherCoders",
-    "Website": "http://www.mothercoders.org/",
-    "LinkedIn": "https://www.linkedin.com/company/3758425",
-    "Twitter": "https://twitter.com/MotherCoders",
-    "Description": "A tech orientation program designed for women with kids.",
-    "Logo": "https://pbs.twimg.com/profile_images/378800000437887726/d3f5ee885174885a1af0678298949933_400x400.jpeg",
-    "Location": "",
-    "Tags": "women"
-  },
-  {
-    "Name": "Skillcrush",
-    "Website": "http://skillcrush.com/",
-    "LinkedIn": "https://www.linkedin.com/company/skillcrush",
-    "Twitter": "https://twitter.com/Skillcrush",
-    "Description": "Skillcrush is an interactive online learning community for creatives, thinkers, and makers.",
-    "Logo": "https://pbs.twimg.com/profile_images/477461224146214914/45cJRuj9_400x400.png",
-    "Location": "",
-    "Tags": "poc women lgbt"
-  },
-  {
-    "Name": "Black Girls Code",
-    "Website": "http://www.blackgirlscode.com/",
-    "LinkedIn": "https://www.linkedin.com/company/black-girls-code",
-    "Twitter": "https://twitter.com/blackgirlscode",
-    "Description": "A non-profit organization teaching women of color to code.",
-    "Logo": "https://pbs.twimg.com/profile_images/2297324103/wzb29iynqzcgp2btrnya_400x400.jpeg",
-    "Location": "",
-    "Tags": "poc women"
-  },
-  {
-    "Name": "Girl Develop It",
-    "Website": "https://www.girldevelopit.com/",
-    "LinkedIn": "https://www.linkedin.com/company/girl-develop-it",
-    "Twitter": "https://twitter.com/girldevelopit",
-    "Description": "Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.",
-    "Logo": "https://pbs.twimg.com/profile_images/1485070217/gdi_logo_square_400x400.png",
-    "Location": "",
-    "Tags": "women"
-  },
-  {
-    "Name": "Pipeline Fellowship",
-    "Website": "http://pipelineangels.com/",
-    "LinkedIn": "https://www.linkedin.com/company/pipeline-angels",
-    "Twitter": "https://twitter.com/PipelineAngels",
-    "Description": "Organization changing the face of angel investing and creating capital for women social entrepreneurs.",
-    "Logo": "https://pbs.twimg.com/profile_images/652851005986484225/JqKCjQOi_400x400.png",
+    "Name": "Anita Borg Istitute",
+    "Website": "http://anitaborg.org/",
+    "LinkedIn": "https://www.linkedin.com/groups/36797/profile",
+    "Twitter": "https://twitter.com/anitaborg_org",
+    "Description": "The institute’s primary aim is to recruit, retain, and advance women in technology.",
+    "Logo": "https://pbs.twimg.com/profile_images/617414611579473921/vWPULaZ5_400x400.png",
     "Location": "",
     "Tags": "women"
   },
@@ -90,43 +40,13 @@
     "Tags": "women"
   },
   {
-    "Name": "Black Female Coders",
-    "Website": "http://blackfemalecoders.tumblr.com/",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/blackfemcoders",
-    "Description": "Supports women of color in tech.",
-    "Logo": "https://pbs.twimg.com/profile_images/3280878150/f5c3c61422ada3424132f5700195bab3_400x400.jpeg",
+    "Name": "Astia",
+    "Website": "http://astia.org/",
+    "LinkedIn": "https://www.linkedin.com/groups/150/profile",
+    "Twitter": "https://twitter.com/astiaglobal",
+    "Description": "Astia’s model is designed to change the way our ecosystem looks at and evaluates high potential organizations, increasing the recognition of, and investment into women entrepreneurs and their teams.",
+    "Logo": "https://pbs.twimg.com/profile_images/1846234760/for_twitter_astia_wordmark__square__bigger_400x400.png",
     "Location": "",
-    "Tags": "women poc"
-  },
-  {
-    "Name": "Latinas in Computing",
-    "Website": "http://latinasincomputing.org/",
-    "LinkedIn": "https://www.linkedin.com/groups/128729/profile",
-    "Twitter": "https://twitter.com/latinasinc",
-    "Description": "A community created by and for Latinas in computing fields with a mission of promoting their representation and success.",
-    "Logo": "https://pbs.twimg.com/profile_images/408201974/LiCLogo_400x400.jpeg",
-    "Location": "",
-    "Tags": "poc women"
-  },
-  {
-    "Name": "NY Tech Women",
-    "Website": "http://www.meetup.com/NYTechWomen/",
-    "LinkedIn": "https://www.linkedin.com/groups/4280894/profile",
-    "Twitter": "https://twitter.com/NYTechWomen/",
-    "Description": "Not-for-profit feminist videogame arts organization. For and by women/nb/queer folks who make + change games. Community, events, space to work, play + exhibit.",
-    "Logo": "https://pbs.twimg.com/profile_images/2190354963/NYTW_Logo_Square_Twitter_400x400.jpg",
-    "Location": "USA NY",
-    "Tags": "women"
-  },
-  {
-    "Name": "Dames Making Games",
-    "Website": "https://dmg.to/",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/DMGToronto",
-    "Description": "Supporting dames interested in making, playing, and changing games.",
-    "Logo": "https://pbs.twimg.com/profile_images/653251639550185472/s4sztd-E_200x200.png",
-    "Location": "CA",
     "Tags": "women"
   },
   {
@@ -140,6 +60,26 @@
     "Tags": "women"
   },
   {
+    "Name": "Black Female Coders",
+    "Website": "http://blackfemalecoders.tumblr.com/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/blackfemcoders",
+    "Description": "Supports women of color in tech.",
+    "Logo": "https://pbs.twimg.com/profile_images/3280878150/f5c3c61422ada3424132f5700195bab3_400x400.jpeg",
+    "Location": "",
+    "Tags": "women poc"
+  },
+  {
+    "Name": "Black Girls Code",
+    "Website": "http://www.blackgirlscode.com/",
+    "LinkedIn": "https://www.linkedin.com/company/black-girls-code",
+    "Twitter": "https://twitter.com/blackgirlscode",
+    "Description": "A non-profit organization teaching women of color to code.",
+    "Logo": "https://pbs.twimg.com/profile_images/2297324103/wzb29iynqzcgp2btrnya_400x400.jpeg",
+    "Location": "",
+    "Tags": "poc women"
+  },
+  {
     "Name": "Canadian Women in Communications and Technology",
     "Website": "https://www.wct-fct.com/",
     "LinkedIn": "https://www.linkedin.com/company/518228?trk=tyah&trkInfo=tas%3Acanadian%20women%20%2Cidx%3A1-1-1",
@@ -150,6 +90,16 @@
     "Tags": "women"
   },
   {
+    "Name": "Center for Minorities and People with Disabilities in IT",
+    "Website": "http://www.cmd-it.org/",
+    "LinkedIn": "https://www.linkedin.com/groups/3825395",
+    "Twitter": "https://twitter.com/cmdit",
+    "Description": "The center ensures that under-represented groups are fully engaged in computing and information technologies, and promotes innovation that enriches, enhances, and enables these communities, such that more equitable and sustainable contributions are possible by all communities.",
+    "Logo": "https://pbs.twimg.com/profile_images/2684058831/4bdfd6ed0eb4690524aa6cc2d5cd36d9_400x400.jpeg",
+    "Location": "",
+    "Tags": "poc"
+  },
+  {
     "Name": "Chicago Women Developers",
     "Website": "cwdevs.com",
     "LinkedIn": "",
@@ -157,6 +107,176 @@
     "Description": "Community for Chicago Women Developers",
     "Logo": "https://pbs.twimg.com/profile_images/517056483091951617/DyomRqP9_400x400.jpeg",
     "Location": "USA IL",
+    "Tags": "women"
+  },
+  {
+    "Name": "Code First: Girls",
+    "Website": "http://www.codefirstgirls.org.uk/",
+    "LinkedIn": "https://www.linkedin.com/company/code-first-girls",
+    "Twitter": "https://twitter.com/CodeFirstGirls",
+    "Description": "Helps companies train their people, and develop their talent management policies and processes so they don’t miss out on amazing female tech talent.",
+    "Logo": "https://pbs.twimg.com/profile_images/572786721922629632/XI4-Cw-n_400x400.png",
+    "Location": "UK",
+    "Tags": "women"
+  },
+  {
+    "Name": "Code for Progress",
+    "Website": "http://www.codeforprogress.org/",
+    "LinkedIn": "https://www.linkedin.com/company/3801006",
+    "Twitter": "https://twitter.com/codeforprogress",
+    "Description": "Code for Progress cultivates a growing community of diverse professionals who have the technical skills and cultural competency to bring innovation to non-profits, government and industry.",
+    "Logo": "https://pbs.twimg.com/profile_images/643483832365248512/QLUUlKw4_400x400.png",
+    "Location": "",
+    "Tags": "poc"
+  },
+  {
+    "Name": "Code Liberation",
+    "Website": "codeliberation.org",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/CodeLiberation",
+    "Description": "The Code Liberation Foundation offers free development workshops in order to facilitate the creation of video game titles by women.",
+    "Logo": "https://pbs.twimg.com/profile_images/517704670899232770/2AzNaMkH_400x400.png",
+    "Location": "",
+    "Tags": "women"
+  },
+  {
+    "Name": "Code to Work",
+    "Website": "http://www.codetowork.org/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/CodeToWork",
+    "Description": "Providing opportunities for Employers to find diverse sources of IT talent.",
+    "Logo": "https://pbs.twimg.com/profile_images/707238192060059648/lGln0uVV_400x400.jpg",
+    "Location": "USA, NY",
+    "Tags": "poc women lgbt"
+  },
+  {
+    "Name": "Code2040",
+    "Website": "http://www.code2040.org/",
+    "LinkedIn": "https://www.linkedin.com/company/2680765",
+    "Twitter": "https://twitter.com/CODE2040",
+    "Description": "CODE2040 creates access, awareness, and opportunities for top Black and Latino/a engineering talent to ensure their leadership in the innovation economy.",
+    "Logo": "https://pbs.twimg.com/profile_images/2768040257/780e65ec190f560b3aa2ba4ae6d11ebd_400x400.jpeg",
+    "Location": "",
+    "Tags": "poc"
+  },
+  {
+    "Name": "Computing Alliance of Hispanic Serving Institutions",
+    "Website": "http://cahsi.cs.utep.edu/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/cahsialliance",
+    "Description": "The institution aims to increase the number of Hispanics who pursue and complete baccalaureate and advanced degrees in computing areas.",
+    "Logo": "https://pbs.twimg.com/profile_images/3109128436/5fe198e643bb747190f238ca7c72f651_400x400.png",
+    "Location": "USA",
+    "Tags": "poc"
+  },
+  {
+    "Name": "Computing Research Association - Women",
+    "Website": "http://cra.org/cra-w/",
+    "LinkedIn": "https://www.linkedin.com/groups/7429120/profile",
+    "Twitter": "https://twitter.com/CRAWomen",
+    "Description": "Increasing the success and participation of women in computiong research.",
+    "Logo": "https://pbs.twimg.com/profile_images/555832109567184897/v1_O5JSX_400x400.png",
+    "Location": "",
+    "Tags": "women"
+  },
+  {
+    "Name": "Dames Making Games",
+    "Website": "https://dmg.to/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/DMGToronto",
+    "Description": "Supporting dames interested in making, playing, and changing games.",
+    "Logo": "https://pbs.twimg.com/profile_images/653251639550185472/s4sztd-E_200x200.png",
+    "Location": "CA",
+    "Tags": "women"
+  },
+  {
+    "Name": "Girl Develop It",
+    "Website": "https://www.girldevelopit.com/",
+    "LinkedIn": "https://www.linkedin.com/company/girl-develop-it",
+    "Twitter": "https://twitter.com/girldevelopit",
+    "Description": "Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.",
+    "Logo": "https://pbs.twimg.com/profile_images/1485070217/gdi_logo_square_400x400.png",
+    "Location": "",
+    "Tags": "women"
+  },
+  {
+    "Name": "Girls in Tech",
+    "Website": "http://girlsintech.org/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/GirlsinTech",
+    "Description": "Global non-profit focused on the engagement, education and empowerment of girls and women who are passionate about technology.",
+    "Logo": "https://pbs.twimg.com/profile_images/2766732504/bf4a14756b4ab5db0a7069f2884b2266_400x400.png",
+    "Location": "",
+    "Tags": "women"
+  },
+  {
+    "Name": "Girls Who Code",
+    "Website": "girlswhocode.org",
+    "LinkedIn": "https://www.linkedin.com/groups/6976190",
+    "Twitter": "https://twitter.com/GirlsWhoCode",
+    "Description": "National non-profit organization working to close the gender gap in technology.",
+    "Logo": "https://pbs.twimg.com/profile_images/755083363233304577/L5iPfN4Y_400x400.jpg",
+    "Location": "",
+    "Tags": "women"
+  },
+  {
+    "Name": "Good for POC",
+    "Website": "http://goodforpocin.tech/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/goodforpoc",
+    "Description": "Promotes companies that provide an inclusive and safe work environment for people of color in tech.",
+    "Logo": "https://pbs.twimg.com/profile_images/734556415315070981/QhM0lvCT_400x400.jpg",
+    "Location": "",
+    "Tags": "poc"
+  },
+  {
+    "Name": "Grace Hopper Academy",
+    "Website": "http://www.gracehopper.com/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/hopperacademy",
+    "Description": "Grace Hopper Academy is an immersive software engineering school for women with no upfront tuition cost.",
+    "Logo": "https://pbs.twimg.com/profile_images/654495097573261312/ZUqYMmGz_400x400.png",
+    "Location": "",
+    "Tags": "women"
+  },
+  {
+    "Name": "Hackbright Academy",
+    "Website": "https://hackbrightacademy.com/hire/",
+    "LinkedIn": "https://www.linkedin.com/edu/alumni?id=362000&trk=edu-up-nav-menu-alumni",
+    "Twitter": "https://twitter.com/hackbright",
+    "Description": "Hackbright Academy is the leading engineering school for women in San Francisco.",
+    "Logo": "https://pbs.twimg.com/profile_images/750912585143201793/hKDickOz_400x400.jpg",
+    "Location": "",
+    "Tags": "women"
+  },
+  {
+    "Name": "Latinas in Computing",
+    "Website": "http://latinasincomputing.org/",
+    "LinkedIn": "https://www.linkedin.com/groups/128729/profile",
+    "Twitter": "https://twitter.com/latinasinc",
+    "Description": "A community created by and for Latinas in computing fields with a mission of promoting their representation and success.",
+    "Logo": "https://pbs.twimg.com/profile_images/408201974/LiCLogo_400x400.jpeg",
+    "Location": "",
+    "Tags": "poc women"
+  },
+  {
+    "Name": "Lesbians Who Tech",
+    "Website": "http://lesbianswhotech.org/",
+    "LinkedIn": "https://www.linkedin.com/groups/5067615/profile",
+    "Twitter": "https://twitter.com/lesbiantech",
+    "Description": "Supports queer women in and around tech.",
+    "Logo": "https://pbs.twimg.com/profile_images/693185137790439424/wguFUKaG_400x400.png",
+    "Location": "global",
+    "Tags": "women lgbt"
+  },
+  {
+    "Name": "MotherCoders",
+    "Website": "http://www.mothercoders.org/",
+    "LinkedIn": "https://www.linkedin.com/company/3758425",
+    "Twitter": "https://twitter.com/MotherCoders",
+    "Description": "A tech orientation program designed for women with kids.",
+    "Logo": "https://pbs.twimg.com/profile_images/378800000437887726/d3f5ee885174885a1af0678298949933_400x400.jpeg",
+    "Location": "",
     "Tags": "women"
   },
   {
@@ -180,23 +300,43 @@
     "Tags": "women"
   },
   {
-    "Name": "Hackbright Academy",
-    "Website": "https://hackbrightacademy.com/hire/",
-    "LinkedIn": "https://www.linkedin.com/edu/alumni?id=362000&trk=edu-up-nav-menu-alumni",
-    "Twitter": "https://twitter.com/hackbright",
-    "Description": "Hackbright Academy is the leading engineering school for women in San Francisco.",
-    "Logo": "https://pbs.twimg.com/profile_images/750912585143201793/hKDickOz_400x400.jpg",
+    "Name": "NY Tech Women",
+    "Website": "http://www.meetup.com/NYTechWomen/",
+    "LinkedIn": "https://www.linkedin.com/groups/4280894/profile",
+    "Twitter": "https://twitter.com/NYTechWomen/",
+    "Description": "Not-for-profit feminist videogame arts organization. For and by women/nb/queer folks who make + change games. Community, events, space to work, play + exhibit.",
+    "Logo": "https://pbs.twimg.com/profile_images/2190354963/NYTW_Logo_Square_Twitter_400x400.jpg",
+    "Location": "USA NY",
+    "Tags": "women"
+  },
+  {
+    "Name": "People of Color in Tech",
+    "Website": "http://peopleofcolorintech.com/",
+    "LinkedIn": "https://www.linkedin.com/company/10238455",
+    "Twitter": "https://twitter.com/pocintech",
+    "Description": "Highlights the current achievements of ‘people of color’ within the sphere of technology and startups, and to inspire the next generation.",
+    "Logo": "https://pbs.twimg.com/profile_images/633392774264569857/yvne5Kpv_400x400.png",
+    "Location": "",
+    "Tags": "poc"
+  },
+  {
+    "Name": "Pipeline Fellowship",
+    "Website": "http://pipelineangels.com/",
+    "LinkedIn": "https://www.linkedin.com/company/pipeline-angels",
+    "Twitter": "https://twitter.com/PipelineAngels",
+    "Description": "Organization changing the face of angel investing and creating capital for women social entrepreneurs.",
+    "Logo": "https://pbs.twimg.com/profile_images/652851005986484225/JqKCjQOi_400x400.png",
     "Location": "",
     "Tags": "women"
   },
   {
-    "Name": "Code First: Girls",
-    "Website": "http://www.codefirstgirls.org.uk/",
-    "LinkedIn": "https://www.linkedin.com/company/code-first-girls",
-    "Twitter": "https://twitter.com/CodeFirstGirls",
-    "Description": "Helps companies train their people, and develop their talent management policies and processes so they don’t miss out on amazing female tech talent.",
-    "Logo": "https://pbs.twimg.com/profile_images/572786721922629632/XI4-Cw-n_400x400.png",
-    "Location": "UK",
+    "Name": "Power to Fly",
+    "Website": "https://www.powertofly.com/",
+    "LinkedIn": "https://www.linkedin.com/company/powertofly",
+    "Twitter": "https://twitter.com/powertofly",
+    "Description": "PowerToFly connects companies to women in tech and across digital that work remotely.",
+    "Logo": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAS8AAAAJDIwNTY0MjBjLTY0NWMtNGU2OC1iOTZjLTBmNGRmNTEyZWMwZQ.png",
+    "Location": "",
     "Tags": "women"
   },
   {
@@ -220,52 +360,42 @@
     "Tags": "women"
   },
   {
-    "Name": "Ada Developers Academy",
-    "Website": "http://adadevelopersacademy.org/",
+    "Name": "Skillcrush",
+    "Website": "http://skillcrush.com/",
+    "LinkedIn": "https://www.linkedin.com/company/skillcrush",
+    "Twitter": "https://twitter.com/Skillcrush",
+    "Description": "Skillcrush is an interactive online learning community for creatives, thinkers, and makers.",
+    "Logo": "https://pbs.twimg.com/profile_images/477461224146214914/45cJRuj9_400x400.png",
+    "Location": "",
+    "Tags": "poc women lgbt"
+  },
+  {
+    "Name": "Tech Inclusion Community",
+    "Website": "http://techinclusion.co/",
     "LinkedIn": "",
-    "Twitter": "https://twitter.com/adaacademy",
-    "Description": "An intensive software development training program for women in Seattle.",
-    "Logo": "https://pbs.twimg.com/profile_images/471013643446788096/VE9AkTUD_400x400.png",
+    "Twitter": "https://twitter.com/techinclusionco",
+    "Description": "Tech Inclusion takes an ecosystem approach to improving diversity and inclusion in the tech industry.",
+    "Logo": "https://pbs.twimg.com/profile_images/684993101081923584/QXU_HMN8_400x400.jpg",
     "Location": "",
-    "Tags": "women"
+    "Tags": "poc"
   },
   {
-    "Name": "Grace Hopper Academy",
-    "Website": "http://www.gracehopper.com/",
+    "Name": "Tech Ladies",
+    "Website": "http://www.hiretechladies.com/",
     "LinkedIn": "",
-    "Twitter": "https://twitter.com/hopperacademy",
-    "Description": "Grace Hopper Academy is an immersive software engineering school for women with no upfront tuition cost.",
-    "Logo": "https://pbs.twimg.com/profile_images/654495097573261312/ZUqYMmGz_400x400.png",
+    "Twitter": "",
+    "Description": "Connect women and tech companies.",
+    "Logo": "",
     "Location": "",
     "Tags": "women"
   },
   {
-    "Name": "Astia",
-    "Website": "http://astia.org/",
-    "LinkedIn": "https://www.linkedin.com/groups/150/profile",
-    "Twitter": "https://twitter.com/astiaglobal",
-    "Description": "Astia’s model is designed to change the way our ecosystem looks at and evaluates high potential organizations, increasing the recognition of, and investment into women entrepreneurs and their teams.",
-    "Logo": "https://pbs.twimg.com/profile_images/1846234760/for_twitter_astia_wordmark__square__bigger_400x400.png",
-    "Location": "",
-    "Tags": "women"
-  },
-  {
-    "Name": "Women in Technology Inspirational",
-    "Website": "http://www.witi.com/",
-    "LinkedIn": "https://www.linkedin.com/groups/1888/profile",
-    "Twitter": "https://twitter.com/witi",
-    "Description": "WITI is the premier global organization helping tech-savvy women attain their professional goals.",
-    "Logo": "https://pbs.twimg.com/profile_images/2200289957/WITI_Logo_CMYK_400x400.jpg",
-    "Location": "",
-    "Tags": "women"
-  },
-  {
-    "Name": "Computing Research Association - Women",
-    "Website": "http://cra.org/cra-w/",
-    "LinkedIn": "https://www.linkedin.com/groups/7429120/profile",
-    "Twitter": "https://twitter.com/CRAWomen",
-    "Description": "Increasing the success and participation of women in computiong research.",
-    "Logo": "https://pbs.twimg.com/profile_images/555832109567184897/v1_O5JSX_400x400.png",
+    "Name": "Tech LadyMafia",
+    "Website": "http://techladymafia.com/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/techladymafia",
+    "Description": "Tech LadyMafia supports women who work in and around the internet. We are astrophysicists and developers, writers and digital strategists.",
+    "Logo": "https://pbs.twimg.com/profile_images/1653310439/ladee_400x400.png",
     "Location": "",
     "Tags": "women"
   },
@@ -280,113 +410,13 @@
     "Tags": "women poc lgbt"
   },
   {
-    "Name": "Center for Minorities and People with Disabilities in IT",
-    "Website": "http://www.cmd-it.org/",
-    "LinkedIn": "https://www.linkedin.com/groups/3825395",
-    "Twitter": "https://twitter.com/cmdit",
-    "Description": "The center ensures that under-represented groups are fully engaged in computing and information technologies, and promotes innovation that enriches, enhances, and enables these communities, such that more equitable and sustainable contributions are possible by all communities.",
-    "Logo": "https://pbs.twimg.com/profile_images/2684058831/4bdfd6ed0eb4690524aa6cc2d5cd36d9_400x400.jpeg",
-    "Location": "",
-    "Tags": "poc"
-  },
-  {
-    "Name": "ACM-Women",
-    "Website": "https://women.acm.org/",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/ACMwomENcourage",
-    "Description": "ACM-W supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.",
-    "Logo": "https://pbs.twimg.com/profile_images/378800000760857316/48b5b23ca367cc7e75c60d25a4634af1_400x400.png",
-    "Location": "EU USA",
-    "Tags": "women"
-  },
-  {
-    "Name": "Women in Wireless",
-    "Website": "http://www.womeninwireless.org/",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/WomenInWireless",
-    "Description": "The mission of Women in Wireless is to connect, inspire, and empower female leaders in the mobile and digital space.",
-    "Logo": "https://pbs.twimg.com/profile_images/507107429805330432/FzmYx7wA_400x400.png",
-    "Location": "",
-    "Tags": "women"
-  },
-  {
-    "Name": "Anita Borg Istitute",
-    "Website": "http://anitaborg.org/",
-    "LinkedIn": "https://www.linkedin.com/groups/36797/profile",
-    "Twitter": "https://twitter.com/anitaborg_org",
-    "Description": "The institute’s primary aim is to recruit, retain, and advance women in technology.",
-    "Logo": "https://pbs.twimg.com/profile_images/617414611579473921/vWPULaZ5_400x400.png",
-    "Location": "",
-    "Tags": "women"
-  },
-  {
-    "Name": "Tech Inclusion Community",
-    "Website": "http://techinclusion.co/",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/techinclusionco",
-    "Description": "Tech Inclusion takes an ecosystem approach to improving diversity and inclusion in the tech industry.",
-    "Logo": "https://pbs.twimg.com/profile_images/684993101081923584/QXU_HMN8_400x400.jpg",
-    "Location": "",
-    "Tags": "poc"
-  },
-  {
-    "Name": "People of Color in Tech",
-    "Website": "http://peopleofcolorintech.com/",
-    "LinkedIn": "https://www.linkedin.com/company/10238455",
-    "Twitter": "https://twitter.com/pocintech",
-    "Description": "Highlights the current achievements of ‘people of color’ within the sphere of technology and startups, and to inspire the next generation.",
-    "Logo": "https://pbs.twimg.com/profile_images/633392774264569857/yvne5Kpv_400x400.png",
-    "Location": "",
-    "Tags": "poc"
-  },
-  {
-    "Name": "Good for POC",
-    "Website": "http://goodforpocin.tech/",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/goodforpoc",
-    "Description": "Promotes companies that provide an inclusive and safe work environment for people of color in tech.",
-    "Logo": "https://pbs.twimg.com/profile_images/734556415315070981/QhM0lvCT_400x400.jpg",
-    "Location": "",
-    "Tags": "poc"
-  },
-  {
-    "Name": "Code for Progress",
-    "Website": "http://www.codeforprogress.org/",
-    "LinkedIn": "https://www.linkedin.com/company/3801006",
-    "Twitter": "https://twitter.com/codeforprogress",
-    "Description": "Code for Progress cultivates a growing community of diverse professionals who have the technical skills and cultural competency to bring innovation to non-profits, government and industry.",
-    "Logo": "https://pbs.twimg.com/profile_images/643483832365248512/QLUUlKw4_400x400.png",
-    "Location": "",
-    "Tags": "poc"
-  },
-  {
-    "Name": "Code2040",
-    "Website": "http://www.code2040.org/",
-    "LinkedIn": "https://www.linkedin.com/company/2680765",
-    "Twitter": "https://twitter.com/CODE2040",
-    "Description": "CODE2040 creates access, awareness, and opportunities for top Black and Latino/a engineering talent to ensure their leadership in the innovation economy.",
-    "Logo": "https://pbs.twimg.com/profile_images/2768040257/780e65ec190f560b3aa2ba4ae6d11ebd_400x400.jpeg",
-    "Location": "",
-    "Tags": "poc"
-  },
-  {
-    "Name": "Girls Who Code",
-    "Website": "girlswhocode.org",
-    "LinkedIn": "https://www.linkedin.com/groups/6976190",
-    "Twitter": "https://twitter.com/GirlsWhoCode",
-    "Description": "National non-profit organization working to close the gender gap in technology.",
-    "Logo": "https://pbs.twimg.com/profile_images/755083363233304577/L5iPfN4Y_400x400.jpg",
-    "Location": "",
-    "Tags": "women"
-  },
-  {
-    "Name": "Women Who Code",
-    "Website": "womenwhocode.org",
-    "LinkedIn": "https://www.linkedin.com/company/women-who-code",
-    "Twitter": "https://twitter.com/WomenWhoCode",
-    "Description": "Non-profit organization dedicated to inspiring women to excel in technology careers.",
-    "Logo": "https://pbs.twimg.com/profile_images/673931225111769088/ucgFhSLs_400x400.jpg",
-    "Location": "",
+    "Name": "Women in Tech",
+    "Website": "http://www.womenintechnology.org/",
+    "LinkedIn": "https://www.linkedin.com/groups/55459/profile",
+    "Twitter": "https://twitter.com/WITWomen",
+    "Description": "A non profit organization that promotes women in tech.",
+    "Logo": "https://pbs.twimg.com/profile_images/537061353828016128/DmdKkrbO_400x400.png",
+    "Location": "DC, USA",
     "Tags": "women"
   },
   {
@@ -400,52 +430,22 @@
     "Tags": "women"
   },
   {
-    "Name": "Code Liberation",
-    "Website": "codeliberation.org",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/CodeLiberation",
-    "Description": "The Code Liberation Foundation offers free development workshops in order to facilitate the creation of video game titles by women.",
-    "Logo": "https://pbs.twimg.com/profile_images/517704670899232770/2AzNaMkH_400x400.png",
+    "Name": "Women in Technology Inspirational",
+    "Website": "http://www.witi.com/",
+    "LinkedIn": "https://www.linkedin.com/groups/1888/profile",
+    "Twitter": "https://twitter.com/witi",
+    "Description": "WITI is the premier global organization helping tech-savvy women attain their professional goals.",
+    "Logo": "https://pbs.twimg.com/profile_images/2200289957/WITI_Logo_CMYK_400x400.jpg",
     "Location": "",
     "Tags": "women"
   },
   {
-    "Name": "Girls in Tech",
-    "Website": "http://girlsintech.org/",
+    "Name": "Women in Wireless",
+    "Website": "http://www.womeninwireless.org/",
     "LinkedIn": "",
-    "Twitter": "https://twitter.com/GirlsinTech",
-    "Description": "Global non-profit focused on the engagement, education and empowerment of girls and women who are passionate about technology.",
-    "Logo": "https://pbs.twimg.com/profile_images/2766732504/bf4a14756b4ab5db0a7069f2884b2266_400x400.png",
-    "Location": "",
-    "Tags": "women"
-  },
-  {
-    "Name": "Code to Work",
-    "Website": "http://www.codetowork.org/",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/CodeToWork",
-    "Description": "Providing opportunities for Employers to find diverse sources of IT talent.",
-    "Logo": "https://pbs.twimg.com/profile_images/707238192060059648/lGln0uVV_400x400.jpg",
-    "Location": "USA, NY",
-    "Tags": "poc women lgbt"
-  },
-  {
-    "Name": "Computing Alliance of Hispanic Serving Institutions",
-    "Website": "http://cahsi.cs.utep.edu/",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/cahsialliance",
-    "Description": "The institution aims to increase the number of Hispanics who pursue and complete baccalaureate and advanced degrees in computing areas.",
-    "Logo": "https://pbs.twimg.com/profile_images/3109128436/5fe198e643bb747190f238ca7c72f651_400x400.png",
-    "Location": "USA",
-    "Tags": "poc"
-  },
-  {
-    "Name": "Power to Fly",
-    "Website": "https://www.powertofly.com/",
-    "LinkedIn": "https://www.linkedin.com/company/powertofly",
-    "Twitter": "https://twitter.com/powertofly",
-    "Description": "PowerToFly connects companies to women in tech and across digital that work remotely.",
-    "Logo": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAS8AAAAJDIwNTY0MjBjLTY0NWMtNGU2OC1iOTZjLTBmNGRmNTEyZWMwZQ.png",
+    "Twitter": "https://twitter.com/WomenInWireless",
+    "Description": "The mission of Women in Wireless is to connect, inspire, and empower female leaders in the mobile and digital space.",
+    "Logo": "https://pbs.twimg.com/profile_images/507107429805330432/FzmYx7wA_400x400.png",
     "Location": "",
     "Tags": "women"
   },
@@ -460,12 +460,12 @@
     "Tags": "poc lgbt women"
   },
   {
-    "Name": "Tech Ladies",
-    "Website": "http://www.hiretechladies.com/",
-    "LinkedIn": "",
-    "Twitter": "",
-    "Description": "Connect women and tech companies.",
-    "Logo": "",
+    "Name": "Women Who Code",
+    "Website": "womenwhocode.org",
+    "LinkedIn": "https://www.linkedin.com/company/women-who-code",
+    "Twitter": "https://twitter.com/WomenWhoCode",
+    "Description": "Non-profit organization dedicated to inspiring women to excel in technology careers.",
+    "Logo": "https://pbs.twimg.com/profile_images/673931225111769088/ucgFhSLs_400x400.jpg",
     "Location": "",
     "Tags": "women"
   }

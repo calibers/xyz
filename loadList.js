@@ -1,6 +1,9 @@
 function getLocation(tag){
     return window.location.hostname + "?"+tag;
 }
+
+
+
 (function() {
     console.log( "ready!" );
     $.getJSON( "data.json", function( data ) {
@@ -24,22 +27,22 @@ function getLocation(tag){
             var myTags = val.Tags;
             if(myTags.indexOf(' ')>-1){
                 var arrayTag = myTags.split(' ');
-                items.push( "<li class='myText' id='" + key + "'><h5>"+val.Name+"</h5><p>"+ val.Description +"</p>");
+                items.push( "<li class='myText' id='" + key + "'><h5>"+val.Name+"</h5><p>"+ val.Description +"</p><div class='the-tags'>");
                 for(var n in arrayTag){
-                    items.push("<a href='"+getLocation(arrayTag[n])+"' class='button' onclick='myFunction()' >"+arrayTag[n]+"</a>");
+                    items.push("<button class='"+arrayTag[n]+"1'onclick='myFunction(this.className)' >"+arrayTag[n]+"</button>");
                 }
             }else{
-                 items.push( "<li class='myText' id='" + key + "'><h5>"+val.Name+"</h5><p>"+ val.Description +"</p><a href='"+getLocation(val.Tags)+"' class='button' onclick='myFunction()' >"+val.Tags+"</a>");
+                 items.push( "<li class='myText' id='" + key + "'><h5>"+val.Name+"</h5><p>"+ val.Description +"</p><div class='the-tags'><button class='"+val.Tags+"1'onclick='myFunction(this.className)' >"+val.Tags+"</button>");
             }
            
             
             //links 
-            items.push( "</li></div><li id='" + key + "'><div class='four columns'><ul class='linkss'><a href='" + val.Website + "' class='ss-icon' target='_blank'>"+lin+"</a></li><li class='link' id='" + key + "'><a href='" + val.Twitter+"' class='ss-icon' target='_blank'>"+'&#xF611;'+"</a></li><li class='link' id='" + key + "'><a href='" + val.LinkedIn +"'class='ss-icon'  target='_blank'>"+'&#xF612;'+"</a></div></ul></div></li></div></div>" );
+            items.push( "</div></li></div><li id='" + key + "'><div class='four columns'><ul class='linkss'><a href='" + val.Website + "' class='ss-icon' target='_blank'>"+lin+"</a></li><li class='link' id='" + key + "'><a href='" + val.Twitter+"' class='ss-icon' target='_blank'>"+'&#xF611;'+"</a></li><li class='link' id='" + key + "'><a href='" + val.LinkedIn +"'class='ss-icon'  target='_blank'>"+'&#xF612;'+"</a></div></ul></div></li></div></div>" );
             
         });
             $( "<ul/>", {
                  "class": "my-new-list",
                  html: items.join( "" )
-             }).appendTo( ".myListt" );
+             }).appendTo( ".orgList" );
     });
 })();        

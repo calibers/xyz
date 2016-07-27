@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
     <head>
       <meta charset="utf-8">
@@ -27,9 +28,16 @@
         <div class="container">
             
             <div class="row">
-                <div class="one-half columns" style="margin-top:5%">
-                    <h3>Resourses</h3>
-                    <h4>Hiring a more diverse workforce.</h4>
+                <div class="one-half columns" >
+                    <h3>XYZ</h3>
+                    <h4>Accessing diversity in tech.</h4>
+                </div>
+                <div class="five columns" id="question">
+                  <form id="form-question">
+                        <input id="typebox" type="text" placeholder="Who are we missing?">
+                        <button id="buttontosend" type="submit" form="form1" value="Send">Send</button>
+                    </form>
+                    
                 </div>
             </div>
         </div>
@@ -37,44 +45,39 @@
             <section class="organizations" id="organizations">
                       <div class="row">
                         <div class="eight columns">
+                            <button class="women1" onclick="myFunction(this.className)" >women</button>
+                            <button class="lgbt1" onclick="myFunction(this.className)">lgbt</button>
+                            <button class="poc1" onclick="myFunction(this.className)">poc</button>
                           <!--<label for="exampleRecipientInput">Sort organizations</label>-->
-                          <select class="u-full-width" id="exampleRecipientInput">
-                            <option value="all">organizations for</option>
-                            <option value="fem">women</option>
-                            <option value="eth">people of color</option>
-                            <option value="lgb">lgbt</option>
+                          <!--<select class="u-full-width" id="exampleRecipientInput">
+                            <option value="all" id="all">organizations for</option>
+                            <option value="fem" id="fem">women</option>
+                            <option value="eth" id="eth">people of color</option>
+                            <option value="lgb" id="lgb">lgbt</option>
                             <!--<option value="loc">location</option>-->
-                          </select>
+                          <!--</select>-->
                         </div>
                       </div>
             </section>
-            <section class="listofOrgs">
+            <section class="orgContainer">
                 
                     
-                        <div class="myListt"></div>
+                        <div class="orgList"></div>
                     
                 
             </section>
         </div>
-        <div  id="yo">
-            
             <section id="footer">
                 <div class="row">
                     <div class="six columns">
                         <h5>Made by Scout.</h5>
                         <p>Contact us to learn how we use this resource to recruit.</p>
                     </div>
-                    <form>
-                        <div class="three columns" id="typeform">
-                                <input type="email" name="email-address" placeholder="Email address">
-                        </div>
-                        <div class="three columns" id="button">
-                            <input id="subBtn" type="submit" value="Send">
-                        </div>
-                    </form>    
+                    <div class="three columns" id="button">
+                        <a href="http://usescout.com/?ref=xyz" class="button" target="_blank">Visit Scout</a>
+                    </div>  
                 </div>
             </section>
-        </div>
     </body>
 </html>    
 <!--https://docs.google.com/spreadsheets/d/1lqc5U6zNgxu_Wpp8rtmK8s9kP3TzTVqa0CXDPR2gOU8/edit#gid=0-->
