@@ -1,53 +1,72 @@
 body{
     background-color: white;
 }
+ul .links{
+        margin-left: 90px;
+}
 a{
+    color: white;
+    text-decoration: initial;
+}
+.links li a{
     color:#3a3a3a;
     background-color:#fafafa;
-    padding: 6px;
-    border-radius: 3px;
+    border-radius: 0;
+    padding: 0;
 }
-
-button{
-        border: 0px;
+button.active, button.orgBtn {
+    width: 88px;
+    height: 27px;
+    text-transform: lowercase;
+    font-weight: 600;
+    border: 0px;
+    line-height: 27px;
+}
+button.women1{
+    padding-left: 22px;
+}
+button.active, button{
+    margin-right: 10px;
 }
 #form-question{
     margin-bottom: 0;
 }
-#buttontosend{
+a#mail-link{
     text-transform: capitalize;
     font-size: inherit;
     border-width: 0;
 }
 .tags{
-    
     display: inline-block;
-    
-    /*padding: 5px;
-    background-color: #ccebf5;
-    border-radius: 10%;
-    margin-right: 6px; */
 }
-.women1{
+.orgBtn{
+    background-color: #dcdcd9;
+}
+
+.active.women1, .orgBtn.women1:focus{
     background-color: #ff6a2f;
     color: white;
 }
-.women1:hover{
+.active.women1:hover{
     color:#451F27;
 }
-.lgbt1{
+.active.lgbt1, .orgBtn.lgbt1:focus{
     background: #57e257;
     color: white;
 }
-.lgbt1:hover{
+.active.lgbt1:hover{
     color:#451F27;
 }
-.poc1{
+.active.poc1, .orgBtn.poc1:focus{
     background: #33c3f0;
     color: white;
 }
-.poc1:hover{
+.active.poc1:hover{
     color:#451F27;
+}
+.active.all {
+    background: #ffe86e;
+    color: white;
 }
 
 #exampleRecipientInput{
@@ -55,14 +74,14 @@ button{
 }
 #footer{
     padding-top:3%;
-    padding-left: 10%;
     padding-bottom: 3%;
     color: #1e2d4e;
     margin:0;
-    background-color: #fafafa;
     border-top: #8c8c8c;
     border-top-style: solid;
     border-width: 1px;
+    text-align: center;
+    align-items: center;
     
 }
 .orgContainer{
@@ -82,13 +101,12 @@ list-style-type:none;
 
 .link{
     display: inline-block;
-    padding-left:20%;
-    padding-top:8%;   
+    padding-left:10px;
+    padding-top: 0;
 }
-
 img{
     padding-top: 3%;
-    max-width: 20%;
+    max-width: 100px;
     position: absolute;
 }
 .listItem img{   
@@ -96,56 +114,63 @@ img{
 }
 .myText{
     padding-bottom: 2%;
-    padding-left: 40%;
+    padding-left: 120px;
     line-height: 1.2;
 }
 .the-tags{
     display: inline-block;
     
 }
-#typebox{
-    width: 70%;
+#message, #footer .button{
+    width: 80%;
     border-width: 0;
-    background: #fafafa;
-}
-#footer .button{
+    background: #05053c;
     color: white;
-    background: #1e2d4e;
-    border-radius: 25px;
     text-transform: capitalize;
-    font-size: inherit;
+    border-radius: 25px;
+    margin-left: 30px;
 }
+.twelve.columns{
+        position: relative;
+ }
+
 #footer .button:hover{
     color: #1E2D4E;
     background: #E1D2B1;
 }
 h5{
-         font-weight: bold;
-    }
-@media screen and (max-width:330px){
-    
-    body{
-        font-size:1.2em;
-    }
-    p{
-        margin-right: 10%;
-    }
-    h5{
-       
-        margin-right: 10%;
-    }
+    font-weight: bold;
 }
-@media screen and (max-width:430px){
-    ul ul{
+ul ul{
+    padding-top: 0;
+}
+ul.links{      
+    top: 100px;
+    right: 300px;
+    position: absolute;
+}
+
+
+/* Larger than mobile */
+@media (min-width: 400px) {
+    ul .links {
+    margin-left: 0; 
+    }
+    .links {
+        float: left;
+        position:relative;
+        padding-left: 0;
+        margin: 0;
         padding-top: 0;
     }
-    
-}
-@media screen and (max-width:550px){
-    
+    .myText {
+        padding-left: 140px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
     #exampleRecipientInput{
-    width:100%;
-}
+        width:100%;
+    }
     .listofOrgs{
         padding-bottom: 0;
     }
@@ -153,25 +178,15 @@ h5{
         width:50%;
     }
     .link{
-        padding-left: 10%;
-        padding-top: 0;
-    }
-    .links{
-        position: absolute;
-        padding-left: 0;
         margin: 0;
-        padding-top: 15%;
+        width: 27px;
     }
     ul ul{
         margin:0;
         padding-top: 10%;
     }
-    .myText{
-        padding-bottom: 0;
-        margin-bottom: 0;
-    }
     img{
-        max-width: 30%;
+        max-width: 100px;
     }
     .u-full-width {
         width: 100%;
@@ -183,38 +198,119 @@ h5{
     }
     
 }
-@media screen and (min-width:750px){
-    #question{
-    position: absolute;
-    margin-left: 70%;
-    top: 20%;
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (max-width: 750px) {
+    ul .links {
+        right:inherit;
+        top:120px;
+        width:100px;
     }
-    #buttontosend{
-    float: right;
+    .links .link {
+        width:33%;
+        padding: 0;
     }
-    #typebox {
-    width: 60%;
+    .links #website {
+        text-align: left;
+    }
+    .links #twitter {
+        text-align: center;
+    }
+    .links #linkedin {
+        text-align: right;
+    }
+    .links .link a {
+        padding:5px;
     }
 }
-@media screen and (min-width:1000px){
-    
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+     .links li a{
+        padding: 6px;
+        border-radius: 3px;
+    }
+    .link{
+        padding-top:8%;  
+    }
+    #question{
+        position: absolute;
+        margin-left: 70%;
+        top: 20%;
+    }
+    .eight.columns {
+        width: 100%;
+    }
+    #footer{
+        text-align: left;
+    }
+    #footer h5, #footer p {
+        margin-left: 60px;
+        line-height: 40%;
+    }
+    #footer p{
+        
+    }
+    #footer .button{
+        margin-left: -40px;
+    }
+    li h5{
+        width: 75%;
+    }
+    ul .links {
+        position: absolute;
+        top: 20px;
+        right: 0px;
+    }
+    a#mail-link{
+    float: right;
+    }
+    #message {
+        position: relative;
+    }
+    #message a{
+        position: absolute;
+        top: 3%;
+        left: 17%;
+    }
+    #textfooter {
+        margin-top: 30px;
+    }
+}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
     img{
-        max-width: 15%;
+        max-width: 100px;
     }
     #question{
     position: absolute;
     margin-left: 70%;
     top: 20%;
     }
-    #buttontosend{
+    a#mail-link{
     float: right;
     }
-    
+    #message a{
+         position: static;
+    }
+    #message{
+        width:50%;
+        margin-left: 110px;
+        margin-top: 20px;
+    }
+    #footer h5, #footer p{
+        margin-left: 110px;
+    }
+    #footer .button {
+        margin-left: -74px;
+    }
 }
-/*
-.women1:focus{
-    
-    color: #737373;
-    background: #fafafa;
-    
-}*/
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
+@media screen and (max-width:360px){
+    ul .links {
+        left: -90px;
+    }
+}

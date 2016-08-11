@@ -33,9 +33,17 @@
                     <h4>Accessing diversity in tech.</h4>
                 </div>
                 <div class="five columns" id="question">
-                  <form id="form-question">
-                        <input id="typebox" type="text" placeholder="Who are we missing?">
-                        <button id="buttontosend" type="submit" form="form1" value="Send">Send</button>
+                    <form id="form-question">
+                        <button id="message">
+                            <a href="mailto:hamstlanda@gmail.com">Suggest Organization</a>
+                        </button>
+<!--
+                          <input id="typebox" type="text" placeholder="Who are we missing?">
+                          <a href="mailto:hamstlanda@gmail.com?Subject=Hello%20again" target="_top"><button id="buttontosend" type="submit" form="form1" value="Send">Send</button></a>
+
+                        <input id="message" type="text" placeholder="Who are we missing?" class="form-control">
+                        <a id="mail-link" class="button-primary">Send</a>
+-->
                     </form>
                     
                 </div>
@@ -45,17 +53,12 @@
             <section class="organizations" id="organizations">
                       <div class="row">
                         <div class="eight columns">
-                            <button class="women1" onclick="myFunction(this.className)" >women</button>
-                            <button class="lgbt1" onclick="myFunction(this.className)">lgbt</button>
-                            <button class="poc1" onclick="myFunction(this.className)">poc</button>
-                          <!--<label for="exampleRecipientInput">Sort organizations</label>-->
-                          <!--<select class="u-full-width" id="exampleRecipientInput">
-                            <option value="all" id="all">organizations for</option>
-                            <option value="fem" id="fem">women</option>
-                            <option value="eth" id="eth">people of color</option>
-                            <option value="lgb" id="lgb">lgbt</option>
-                            <!--<option value="loc">location</option>-->
-                          <!--</select>-->
+                            
+                            <a href="#women"><button class="orgBtn women1 active" onclick="grey(this.className);">women</button></a>
+                            <a href="#poc"><button class="orgBtn poc1 active" onclick="grey(this.className);">poc</button></a>
+                            <a href="#lgbt"><button class="orgBtn lgbt1 active" onclick="grey(this.className);">lgbt</button></a>
+                            <a href=""><button class="orgBtn all active" onclick="grey(this.className);">all</button></a>
+
                         </div>
                       </div>
             </section>
@@ -69,13 +72,15 @@
         </div>
             <section id="footer">
                 <div class="row">
-                    <div class="six columns">
-                        <h5>Made by Scout.</h5>
-                        <p>Contact us to learn how we use this resource to recruit.</p>
-                    </div>
-                    <div class="three columns" id="button">
-                        <a href="http://usescout.com/?ref=xyz" class="button" target="_blank">Visit Scout</a>
-                    </div>  
+                    <div id="textfooter">
+                        <div class="nine columns">
+                            <h5>Made by Scout.</h5>
+                            <p>Contact us to learn how we use this resource to recruit.</p>
+                        </div>
+                        <div class="three columns" id="button">
+                            <a href="http://usescout.com/?ref=xyz" class="button" target="_blank">Visit Scout</a>
+                        </div>  
+                     </div>
                 </div>
             </section>
     </body>
