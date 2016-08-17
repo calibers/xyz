@@ -15,16 +15,18 @@ a{
     padding: 0;
 }
 button.active, button.orgBtn {
-    width: 88px;
+/*    width: 88px;*/
     height: 27px;
-    text-transform: lowercase;
+    text-transform: none;
     font-weight: 600;
     border: 0px;
     line-height: 27px;
 }
+/*
 button.women1{
     padding-left: 22px;
 }
+*/
 button.active, button{
     margin-right: 10px;
 }

@@ -19,8 +19,8 @@
     <!-- link to jquery library here -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- link to my javascript script file here -->   
+    <!--<script type="text/javascript" src="/js/loadList.js"></script>-->
     <script type="text/javascript" src="loadList.js"></script>
-    <script type="text/javascript" src="script.js"></script>
     </head>
     <body>
     <!-- Primary Page Layout
@@ -37,15 +37,7 @@
                         <button id="message">
                             <a href="mailto:hamstlanda@gmail.com">Suggest Organization</a>
                         </button>
-<!--
-                          <input id="typebox" type="text" placeholder="Who are we missing?">
-                          <a href="mailto:hamstlanda@gmail.com?Subject=Hello%20again" target="_top"><button id="buttontosend" type="submit" form="form1" value="Send">Send</button></a>
-
-                        <input id="message" type="text" placeholder="Who are we missing?" class="form-control">
-                        <a id="mail-link" class="button-primary">Send</a>
--->
                     </form>
-                    
                 </div>
             </div>
         </div>
@@ -53,11 +45,11 @@
             <section class="organizations" id="organizations">
                       <div class="row">
                         <div class="eight columns">
+                            <a href="#all"><button class="orgBtn all active" onclick="grey(this.className);">All</button></a>
+                            <a href="#women"><button class="orgBtn women1 active" onclick="grey(this.className);">Women</button></a>
+                            <a href="#poc"><button class="orgBtn poc1 active" onclick="grey(this.className);">Cultural Diversity</button></a>
+                            <a href="#lgbt"><button class="orgBtn lgbt1 active" onclick="grey(this.className);">LGBTQ</button></a>
                             
-                            <a href="#women"><button class="orgBtn women1 active" onclick="grey(this.className);">women</button></a>
-                            <a href="#poc"><button class="orgBtn poc1 active" onclick="grey(this.className);">poc</button></a>
-                            <a href="#lgbt"><button class="orgBtn lgbt1 active" onclick="grey(this.className);">lgbt</button></a>
-                            <a href=""><button class="orgBtn all active" onclick="grey(this.className);">all</button></a>
 
                         </div>
                       </div>

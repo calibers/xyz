@@ -130,6 +130,16 @@
     "Tags": "poc"
   },
   {
+    "Name": "Code Latino",
+    "Website": "http://www.codelatino.com/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/CodeLatino",
+    "Description": "Code Latino's mission is to promote diversity within the tech community by empowering the next wave of Latino Coders through outreach, workshops and social events.",
+    "Logo": "https://pbs.twimg.com/profile_images/646894699924557824/lydi4BqM_400x400.jpg",
+    "Location": "IL, USA",
+    "Tags": "poc"
+  },
+  {
     "Name": "Code Liberation",
     "Website": "codeliberation.org",
     "LinkedIn": "",
@@ -138,16 +148,6 @@
     "Logo": "https://pbs.twimg.com/profile_images/517704670899232770/2AzNaMkH_400x400.png",
     "Location": "",
     "Tags": "women"
-  },
-  {
-    "Name": "Code to Work",
-    "Website": "http://www.codetowork.org/",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/CodeToWork",
-    "Description": "Providing opportunities for Employers to find diverse sources of IT talent.",
-    "Logo": "https://pbs.twimg.com/profile_images/707238192060059648/lGln0uVV_400x400.jpg",
-    "Location": "USA, NY",
-    "Tags": "poc women lgbt"
   },
   {
     "Name": "Code2040",
@@ -250,6 +250,16 @@
     "Tags": "women"
   },
   {
+    "Name": "InterTech",
+    "Website": "http://www.intertechlgbt.com/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/IntertechLGBT",
+    "Description": "The professional network for LGBT+ people in the UK tech sector.",
+    "Logo": "https://pbs.twimg.com/profile_images/378800000260137339/76bebb6c4613d27cb0307c1e283af33c_400x400.png",
+    "Location": "UK",
+    "Tags": "lgbt"
+  },
+  {
     "Name": "Latinas in Computing",
     "Website": "http://latinasincomputing.org/",
     "LinkedIn": "https://www.linkedin.com/groups/128729/profile",
@@ -310,6 +320,26 @@
     "Tags": "women"
   },
   {
+    "Name": "Out for Undergrad",
+    "Website": "http://outforundergrad.org/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/OutforUndergrad",
+    "Description": "Out for Undergrad (O4U) is an organization focused on advancing undergraduate LGBTQ leaders in their professional lives.",
+    "Logo": "https://pbs.twimg.com/profile_images/712281588466380800/zwEheZ_V_400x400.jpg",
+    "Location": "",
+    "Tags": "lgbt"
+  },
+  {
+    "Name": "Out in Tech",
+    "Website": "http://www.outintech.com/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/OutinTech",
+    "Description": "Out in Tech is a community of LGBT tech industry enthusiasts.It unites LGBT individuals across the technology-related industries.",
+    "Logo": "https://pbs.twimg.com/profile_images/463064186142998528/TmYaSjyI_400x400.png",
+    "Location": "NY, CA, US",
+    "Tags": "lgbt"
+  },
+  {
     "Name": "People of Color in Tech",
     "Website": "http://peopleofcolorintech.com/",
     "LinkedIn": "https://www.linkedin.com/company/10238455",
@@ -340,6 +370,16 @@
     "Tags": "women"
   },
   {
+    "Name": "Queer Coders",
+    "Website": "https://queercoders.com/",
+    "LinkedIn": "",
+    "Twitter": "https://twitter.com/queercoders",
+    "Description": "Queer Coders provides a community for lesbian, gay, bisexual, transgender, and queer coders, developers, programmers, designers, analysts, data wranglers, technophiles, and our friends.",
+    "Logo": "https://pbs.twimg.com/profile_images/531489560295768064/jenoPTlQ_400x400.jpeg",
+    "Location": "",
+    "Tags": "lgbt"
+  },
+  {
     "Name": "Railsbridge",
     "Website": "http://www.railsbridge.org/",
     "LinkedIn": "",
@@ -348,16 +388,6 @@
     "Logo": "https://pbs.twimg.com/profile_images/711794496619479042/ZY_nnnKI_400x400.jpg",
     "Location": "",
     "Tags": "women poc lgbt"
-  },
-  {
-    "Name": "Queer Tech Club",
-    "Website": "https://www.queertechclub.com/#s=1",
-    "LinkedIn": "",
-    "Twitter": "https://twitter.com/queertechclub",
-    "Description": "Meetups for queer tech community.",
-    "Logo": "https://pbs.twimg.com/profile_images/616684119653748736/ztNM2M0P_400x400.png",
-    "Location": "",
-    "Tags": "lgbt"
   },
   {
     "Name": "she++",
@@ -418,6 +448,16 @@
     "Logo": "http://www.cdc-computing.org/wp-content/uploads/2015/08/Logo2.png",
     "Location": "",
     "Tags": "women poc lgbt"
+  },
+  {
+    "Name": "Unicorns in Tech",
+    "Website": "http://unicornsintech.com/",
+    "LinkedIn": "https://www.linkedin.com/groups/8201996",
+    "Twitter": "https://twitter.com/UNICORNSINTECH",
+    "Description": "Unicorns in tech is a global tech community for LGBTI and Straight Allies",
+    "Logo": "https://pbs.twimg.com/profile_images/510108050766569472/EBkB5jka_400x400.jpeg",
+    "Location": "Berlin, GR",
+    "Tags": "lgbt"
   },
   {
     "Name": "Women in Tech",
