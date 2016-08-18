@@ -158,6 +158,9 @@ ul.links{
     ul .links {
     margin-left: 0; 
     }
+    .eight.columns {
+        width: 100%;
+    }
     .links {
         float: left;
         position:relative;
@@ -208,6 +211,11 @@ ul.links{
         top:120px;
         width:100px;
     }
+    button#message {
+        width: 100%;
+        margin-left: 260px;
+    }
+    
     .links .link {
         width:33%;
         padding: 0;
@@ -240,9 +248,11 @@ ul.links{
         margin-left: 70%;
         top: 20%;
     }
+/*
     .eight.columns {
         width: 100%;
     }
+*/
     #footer{
         text-align: left;
     }
@@ -273,7 +283,6 @@ ul.links{
     #message a{
         position: absolute;
         top: 3%;
-        left: 17%;
     }
     #textfooter {
         margin-top: 30px;
@@ -293,8 +302,9 @@ ul.links{
     a#mail-link{
     float: right;
     }
-    #message a{
-         position: static;
+    #message a {
+        margin-left: -65px;
+        top: -1px;
     }
     #message{
         width:50%;
