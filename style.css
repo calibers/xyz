@@ -161,6 +161,7 @@ ul.links{
     .eight.columns {
         width: 100%;
     }
+    
     .links {
         float: left;
         position:relative;
@@ -211,6 +212,9 @@ ul.links{
         top:120px;
         width:100px;
     }
+    .eight.columns {
+        width: 100%;
+    }
     button#message {
         width: 100%;
         margin-left: 260px;
@@ -231,6 +235,12 @@ ul.links{
     }
     .links .link a {
         padding:5px;
+    }
+}
+@media (max-width: 500px){
+    button#message {
+        width: 55%;
+        margin-left: 0;
     }
 }
 
