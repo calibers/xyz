@@ -152,7 +152,6 @@ ul.links{
     position: absolute;
 }
 
-
 /* Larger than mobile */
 @media (min-width: 400px) {
     ul .links {
@@ -161,7 +160,7 @@ ul.links{
     .eight.columns {
         width: 100%;
     }
-    
+
     .links {
         float: left;
         position:relative;
@@ -241,6 +240,12 @@ ul.links{
     button#message {
         width: 55%;
         margin-left: 0;
+    }
+}
+@media (min-width:350px){
+    ul.links {
+        right: 230px;
+        position: absolute;
     }
 }
 
